@@ -1,0 +1,2 @@
+# synonyms
+Created with CodeSandbox
